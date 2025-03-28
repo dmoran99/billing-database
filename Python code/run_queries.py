@@ -12,7 +12,7 @@
 # database."
 
 # If you get a "database is locked" error message, restart the kernel and, once it's done, delete the database file. Then run
-# this code with the subprocess lines (24 and 32) uncommented to rebuild the database.
+# this code with the subprocess lines (25 and 33) uncommented to rebuild the database.
 
 # I used PyInstaller to create the EXE, so please look into PyInstaller more if you would like to modify any of the code in
 # these files and create your own EXE.
